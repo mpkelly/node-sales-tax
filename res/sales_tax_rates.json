@@ -1200,5 +1200,370 @@
     "type": "vat",
     "currency": "USD",
     "rate": 0.15
+  },
+  "AD": {
+    "type": "vat",
+    "currency": "EUR",
+    "rate": 0.045
+  },
+  "AG": {
+    "type": "vat",
+    "currency": "XCD",
+    "rate": 0.15
+  },
+  "BD": {
+    "type": "vat",
+    "currency": "BDT",
+    "rate": 0.15
+  },
+  "BZ": {
+    "type": "vat",
+    "currency": "BZD",
+    "rate": 0.125
+  },
+  "CD": {
+    "type": "vat",
+    "currency": "CDF",
+    "rate": 0.189
+  },
+  "BJ": {
+    "type": "vat",
+    "currency": "XOF",
+    "rate": 0.18
+  },
+  "BT": {
+    "type": "vat",
+    "currency": "BTN",
+    "rate": 0.07
+  },
+  "BF": {
+    "type": "vat",
+    "currency": "XOF",
+    "rate": 0.18
+  },
+  "BI": {
+    "type": "vat",
+    "currency": "BIF",
+    "rate": 0.18
+  },
+  "CV": {
+    "type": "vat",
+    "currency": "CVE",
+    "rate": 0.15
+  },
+  "KH": {
+    "type": "vat",
+    "currency": "KHR",
+    "rate": 0.1
+  },
+  "CM": {
+    "type": "vat",
+    "currency": "XAF",
+    "rate": 0.1925
+  },
+  "CF": {
+    "type": "vat",
+    "currency": "XAF",
+    "rate": 0.19
+  },
+  "TD": {
+    "type": "vat",
+    "currency": "XAF",
+    "rate": 0.18
+  },
+  "KM": {
+    "type": "vat",
+    "currency": "KMF",
+    "rate": 0.1
+  },
+  "CG": {
+    "type": "vat",
+    "currency": "XAF",
+    "rate": 0.189
+  },
+  "CI": {
+    "type": "vat",
+    "currency": "XOF",
+    "rate": 0.18
+  },
+  "CU": {
+    "type": "vat",
+    "currency": "CUP",
+    "rate": 0.1
+  },
+  "DJ": {
+    "type": "vat",
+    "currency": "DJF",
+    "rate": 0.1
+  },
+  "DM": {
+    "type": "vat",
+    "currency": "XCD",
+    "rate": 0.15
+  },
+  "EQ": {
+    "type": "vat",
+    "currency": "XAF",
+    "rate": 0.15
+  },
+  "SZ": {
+    "type": "vat",
+    "currency": "SZL",
+    "rate": 0.15
+  },
+  "ET": {
+    "type": "vat",
+    "currency": "ETB",
+    "rate": 0.15
+  },
+  "FJ": {
+    "type": "vat",
+    "currency": "FJD",
+    "rate": 0.15
+  },
+  "GA": {
+    "type": "vat",
+    "currency": "XAF",
+    "rate": 0.18
+  },
+  "GM": {
+    "type": "vat",
+    "currency": "GMD",
+    "rate": 0.15
+  },
+  "GD": {
+    "type": "vat",
+    "currency": "XCD",
+    "rate": 0.1
+  },
+  "GN": {
+    "type": "vat",
+    "currency": "GNF",
+    "rate": 0.18
+  },
+  "GW": {
+    "type": "vat",
+    "currency": "XOF",
+    "rate": 0.1
+  },
+  "GY": {
+    "type": "vat",
+    "currency": "GYD",
+    "rate": 0.14
+  },
+  "HT": {
+    "type": "vat",
+    "currency": "HTG",
+    "rate": 0.1
+  },
+  "IR": {
+    "type": "vat",
+    "currency": "IRR",
+    "rate": 0.09
+  },
+  "IQ": {
+    "type": "vat",
+    "currency": "IQD",
+    "rate": 0
+  },
+  "JM": {
+    "type": "vat",
+    "currency": "JMD",
+    "rate": 0.15
+  },
+  "KI": {
+    "type": "vat",
+    "currency": "AUD",
+    "rate": 0.125
+  },
+  "KP": {
+    "type": "vat",
+    "currency": "KPW",
+    "rate": 0.15
+  },
+  "KG": {
+    "type": "vat",
+    "currency": "KGS",
+    "rate": 0.12
+  },
+  "LA": {
+    "type": "vat",
+    "currency": "LAK",
+    "rate": 0.1
+  },
+  "LS": {
+    "type": "vat",
+    "currency": "LSL",
+    "rate": 0.15
+  },
+  "LR": {
+    "type": "vat",
+    "currency": "LRD",
+    "rate": 0.1
+  },
+  "MW": {
+    "type": "vat",
+    "currency": "MWK",
+    "rate": 0.165
+  },
+  "ML": {
+    "type": "vat",
+    "currency": "XOF",
+    "rate": 0.18
+  },
+  "MH": {
+    "type": "vat",
+    "currency": "USD",
+    "rate": 0.15
+  },
+  "MR": {
+    "type": "vat",
+    "currency": "MRU",
+    "rate": 0.16
+  },
+  "FM": {
+    "type": "vat",
+    "currency": "USD",
+    "rate": 0.05
+  },
+  "ME": {
+    "type": "vat",
+    "currency": "EUR",
+    "rate": 0.21
+  },
+  "MA": {
+    "type": "vat",
+    "currency": "MAD",
+    "rate": 0.2
+  },
+  "MZ": {
+    "type": "vat",
+    "currency": "MZN",
+    "rate": 0.16
+  },
+  "NR": {
+    "type": "vat",
+    "currency": "AUD",
+    "rate": 0.07
+  },
+  "NP": {
+    "type": "vat",
+    "currency": "NPR",
+    "rate": 0.13
+  },
+  "NE": {
+    "type": "vat",
+    "currency": "XOF",
+    "rate": 0.15
+  },
+  "PW": {
+    "type": "vat",
+    "currency": "USD",
+    "rate": 0.1
+  },
+  "PS": {
+    "type": "vat",
+    "currency": "ILS",
+    "rate": 0.16
+  },
+  "PY": {
+    "type": "vat",
+    "currency": "PYG",
+    "rate": 0.1
+  },
+  "KN": {
+    "type": "vat",
+    "currency": "XCD",
+    "rate": 0.17
+  },
+  "VC": {
+    "type": "vat",
+    "currency": "XCD",
+    "rate": 0.15
+  },
+  "WS": {
+    "type": "vat",
+    "currency": "WST",
+    "rate": 0.15
+  },
+  "SM": {
+    "type": "vat",
+    "currency": "EUR",
+    "rate": 0.17
+  },
+  "ST": {
+    "type": "vat",
+    "currency": "STN",
+    "rate": 0.15
+  },
+  "SN": {
+    "type": "vat",
+    "currency": "XOF",
+    "rate": 0.18
+  },
+  "SL": {
+    "type": "vat",
+    "currency": "SLL",
+    "rate": 0.18
+  },
+  "SB": {
+    "type": "vat",
+    "currency": "SBD",
+    "rate": 0.15
+  },
+  "SS": {
+    "type": "vat",
+    "currency": "SSP",
+    "rate": 0.2
+  },
+  "SD": {
+    "type": "vat",
+    "currency": "SDG",
+    "rate": 0.17
+  },
+  "TJ": {
+    "type": "vat",
+    "currency": "TJS",
+    "rate": 0.14
+  },
+  "TH": {
+    "type": "vat",
+    "currency": "THB",
+    "rate": 0.07
+  },
+  "TL": {
+    "type": "vat",
+    "currency": "USD",
+    "rate": 0.025
+  },
+  "TG": {
+    "type": "vat",
+    "currency": "XOF",
+    "rate": 0.18
+  },
+  "TO": {
+    "type": "vat",
+    "currency": "TOP",
+    "rate": 0.18
+  },
+  "TM": {
+    "type": "vat",
+    "currency": "TMT",
+    "rate": 0.15
+  },
+  "TV": {
+    "type": "vat",
+    "currency": "AUD",
+    "rate": 0.05
+  },
+  "VU": {
+    "type": "vat",
+    "currency": "VUV",
+    "rate": 0.125
+  },
+  "YE": {
+    "type": "vat",
+    "currency": "YER",
+    "rate": 0.1
   }
 }
