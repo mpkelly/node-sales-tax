@@ -887,7 +887,13 @@
   "TZ": {
     "type": "vat",
     "currency": "TZS",
-    "rate": 0.18
+    "rate": 0.18,
+    "states" : {
+      "TZ": {
+        "rate": -0.03,
+        "type": "vat"
+      }
+    }
   },
 
   "UA": {
